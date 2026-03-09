@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Archivos de respaldo
+*.bak
+*.txt.bak
+*~
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Datos temporales (mantener estructura de carpetas pero no archivos de datos)
+datos/*.txt
+!datos/historial_ejemplo.txt
