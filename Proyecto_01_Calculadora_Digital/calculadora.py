@@ -15,11 +15,7 @@ Universidad de Guadalajara - Campus GDL
 import os
 from datetime import datetime
 
-from pyparsing import nums
-
-from Proyecto_01_Calculadora_Digital.agregar_al_historial import agregar_al_historial
-
-# Variable global para almacenar historial (lista de strings)
+#Variable global para almacenar historial (lista de strings)
 historial = []
 
 # ============================================
